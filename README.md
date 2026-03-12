@@ -1,5 +1,5 @@
-<h1 align="center" class="ac">Мой профиль</h1>
-<p align="center" class="ac">backend разработчик</p>
+<h1 align="center" class="ac">Hi, that is my GitHub profile</h1>
+<p align="center" class="ac">Backend-developer</p>
 <h2>Languages and stack of tools</h2>
 <div class="stack-block">
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  alt="html"/>
