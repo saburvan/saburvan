@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <style>
+<style>
         .stack-block img {
             width: 50px;
         }
@@ -16,8 +11,6 @@
             text-align: center;
         }
     </style>
-</head>
-<body>
 <h1 class="ac">Мой профиль</h1>
 <p class="ac">начинающий backend разработчик</p>
 <h2>Языки и технологии</h2>
@@ -31,8 +24,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" />
 </div>
-
-
-
-</body>
-</html>
